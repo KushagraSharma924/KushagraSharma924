@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/74b5cc4f-da1b-40d5-8b34-7b67aa8dedcf)<h1 align="Left">Hi 👋, I'm <a href="" target="blank">
+<h1 align="Left">Hi 👋, I'm <a href="" target="blank">
 Kushagra Sharma</a></h1>
 <p align="left">
   <a href="https://x.com/Maikushhoon" target="blank">
