@@ -55,7 +55,7 @@ filled with projects, ideas, and continuous learning." </h3>
   <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg" alt="Postman" width="40" height="40"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Twilio_logo.png" alt="Postman" width="40" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Twilio_logo.png" alt="Postman" width="50" height="40"/>
  
 
 
