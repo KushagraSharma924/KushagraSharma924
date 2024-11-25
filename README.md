@@ -17,7 +17,7 @@ filled with projects, ideas, and continuous learning." </h3>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working on <a href="https://github.com/KushagraSharma924/paytm-application" target="blank">Paytm-Like Application</a>
+- 🔭 I’m currently working on <a href="https://github.com/KushagraSharma924/qr-based-ordering" target="blank">Qr-based-Ordering</a>
 
 - 🤝 I’m available for freelancing.
 
