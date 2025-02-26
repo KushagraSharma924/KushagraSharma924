@@ -21,7 +21,7 @@ filled with projects, ideas, and continuous learning." </h3>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning DSA && C++<a href="https://github.com/KushagraSharma924/cpp"> DSA with C++</a>
+- 🌱 I’m currently learning DSA && Java<a href=""> DSA with Java</a>
 
 - 📝 I regularly read articles on [https://medium.com/](https://medium.com/)
 
