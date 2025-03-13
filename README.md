@@ -67,14 +67,9 @@
 
 ## 🎯 Latest Projects:
 
+- 💊 [MediHUT](https://github.com/KushagraSharma924/medihut-web)
 - 🚀 [QR-based Ordering System](https://github.com/KushagraSharma924/qr-based-ordering)
 - 🛠️ [Voice-Enabled Map Application](https://github.com/KushagraSharma924/voice-map)
-- 🌍 [Geospatial Web App with AI](https://github.com/KushagraSharma924/geospatial-ai)
-
----
-
-### 🎵 Fun Fact: 
-I like integrating **Kittu** and **Chikku** into Bollywood song lyrics! 🎶😆
 
 ---
 
