@@ -18,28 +18,30 @@
 </a>
 
 ### 🚀 About Me:
-- 🔭 I’m currently working on <a href="https://github.com/KushagraSharma924/qr-based-ordering" target="blank">QR-based Ordering</a>.
+- 🔬 I’m currently working on <a href="https://github.com/KushagraSharma924/qr-based-ordering" target="blank">QR-based Ordering</a>.
 - 🤝 I’m available for freelancing.
-- 🌱 Currently diving deep into **Data Structures & Algorithms with Java**.
-- 📝 I regularly read and share articles on [Medium](https://medium.com/).
-- 💬 Ask me about **React.js, Node.js, and Full-Stack Development**.
-- 📫 How to reach me: **kush090605@gmail.com**.
-- 📄 Know more about my experiences: <a href="https://drive.google.com/file/d/1gDvyVz-qy8hmLegadGKePenxsWspZhAL/view?usp=sharing" target="blank">Resume</a>.
+- 🌟 Currently diving deep into **Data Structures & Algorithms with Java**.
+- 💼 I regularly read and share articles on [Medium](https://medium.com/).
+- 💭 Ask me about **React.js, Node.js, Django, Flask, and Full-Stack Development**.
+- 📧 How to reach me: **kush090605@gmail.com**.
+- 📝 Know more about my experiences: <a href="https://drive.google.com/file/d/1gDvyVz-qy8hmLegadGKePenxsWspZhAL/view?usp=sharing" target="blank">Resume</a>.
 
 ---
 
-## 🛠 Languages and Tools:
+## 🛠️ Languages and Tools:
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" width="40" height="40"/>
-  <img src="https://camo.githubusercontent.com/57fd9158f81fa9fc350354dd2252d5590c1d878ad2c054ab3a7298591b51047f/68747470733a2f2f73796d626f6c732e67657476656374612e636f6d2f7374656e63696c5f32382f36315f73716c2d64617461626173652d67656e657269632e393062343136333661382e706e67" alt="SQL" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="PyTorch" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="TensorFlow" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="TailwindCSS" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" alt="Express.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg" alt="Postman" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Twilio_logo.png" alt="Twilio" width="60" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
 </p>
 
 ---
@@ -73,4 +75,4 @@
 
 ---
 
-⭐️ *Inspired by amazing developers. Let's connect and code together!*
+🌟 *Inspired by amazing developers. Let's connect and code together!*
