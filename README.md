@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm <a href="" target="_blank">Kushagra Sharma</a></h1>
+![image](https://github.com/user-attachments/assets/1da8c347-62b4-4ddf-a797-0b54e92fe5d0)![image](https://github.com/user-attachments/assets/64116ef5-02a9-4ddc-9c1d-80bf2c06ba25)<h1 align="left">Hi 👋, I'm <a href="" target="_blank">Kushagra Sharma</a></h1>
 
 <p align="left">
   <a href="https://x.com/Maikushhoon" target="_blank">
@@ -18,7 +18,7 @@
 </a>
 
 ### 🚀 About Me:
-- 🔬 Currently working on <a href="https://github.com/KushagraSharma924/medihut-web" target="_blank">MediHut</a>.
+- 🔬 Currently working on <a href="https://github.com/KushagraSharma924/qr-based-ordering" target="_blank">QR-based Ordering</a>.
 - 🤝 Available for freelancing opportunities.
 - 🌟 Focused on **Data Structures & Algorithms with Java**.
 - 💼 Sharing knowledge on [Medium](https://medium.com/).
@@ -36,12 +36,14 @@
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="TailwindCSS" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" alt="Express.js" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg" alt="Postman" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Twilio_logo.png" alt="Twilio" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Twilio_logo.png" alt="Twilio" width="60" height="50"/>
   <img src="https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000" alt="Django" width="50" height="50"/>
   <img src="https://img.icons8.com/?size=100&id=ewGOClUtmFX4&format=png&color=000000" alt="Flask" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
   <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="AWS" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000" alt="Google Cloud LLM" width="50" height="50"/>
 </p>
 
 ---
