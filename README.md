@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1da8c347-62b4-4ddf-a797-0b54e92fe5d0)![image](https://github.com/user-attachments/assets/64116ef5-02a9-4ddc-9c1d-80bf2c06ba25)<h1 align="left">Hi 👋, I'm <a href="" target="_blank">Kushagra Sharma</a></h1>
+<h1 align="left">Hi 👋, I'm <a href="" target="_blank">Kushagra Sharma</a></h1>
 
 <p align="left">
   <a href="https://x.com/Maikushhoon" target="_blank">
@@ -34,9 +34,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="TensorFlow" width="50" height="50"/>
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="TailwindCSS" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" alt="Express.js" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" alt="Express.js" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg" alt="Postman" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Twilio_logo.png" alt="Twilio" width="60" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Twilio_logo.png" alt="Twilio" width="50" height="50"/>
   <img src="https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000" alt="Django" width="50" height="50"/>
   <img src="https://img.icons8.com/?size=100&id=ewGOClUtmFX4&format=png&color=000000" alt="Flask" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
