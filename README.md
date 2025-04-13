@@ -72,7 +72,7 @@
 ## 🎯 Latest Projects:
 
 - 💊 [MediHUT](https://github.com/KushagraSharma924/medihut-web)
-- 🚀 [QR-based Ordering System](https://github.com/KushagraSharma924/qr-based-ordering)
+- 🚀 [Twin-bot](https://github.com/KushagraSharma924/twin-bot)
 - 🛠️ [Voice-Enabled Map Application](https://github.com/KushagraSharma924/voice-map)
 
 ---
