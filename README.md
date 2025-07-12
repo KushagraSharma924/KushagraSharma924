@@ -18,7 +18,7 @@
 </a>
 
 ### 🚀 About Me:
-- 🔬 Currently working on <a href="https://github.com/KushagraSharma924/qr-based-ordering" target="_blank">QR-based Ordering</a>.
+- 🔬 Currently working on <a href="https://github.com/KushagraSharma924/devsketch" target="_blank">DevSketch</a>.
 - 🤝 Available for freelancing opportunities.
 - 🌟 Focused on **Data Structures & Algorithms with Java**.
 - 💼 Sharing knowledge on [Medium](https://medium.com/).
