@@ -1,80 +1,114 @@
-<h1 align="left">Hi 👋, I'm <a href="" target="_blank">Kushagra Sharma</a></h1>
+# <div align="center"> Kushagra Sharma </div>
 
-<p align="left">
-  <a href="https://x.com/Maikushhoon" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" alt="Twitter" width="40" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kushagra-sharma-414b55280/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="420"/>
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Backend+Engineer;AI+Infrastructure+Builder;Distributed+Systems+Learner;Building+Production+Grade+Applications;Java+%7C+Spring+Boot+%7C+AI+Systems" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Focus-Backend%20Engineering-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Infrastructure-1F6FEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System-Design-30363D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-Learning-238636?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=KushagraSharma924&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
+
+<div align="center">
+
+### Building scalable backend systems, AI-powered infrastructure, and production-grade applications.
+
+
+</div>
+
+---
+
+## About
+
+Backend-focused developer building scalable systems and AI-powered infrastructure.
+
+Currently focused on:
+- DSA
+- Backend Engineering
+- System Design
+- AI Infrastructure
+
+---
+
+## Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,mysql,bash" />
+</p>
+
+### Backend & Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,flask,react,nextjs,tailwind" />
+</p>
+
+### Databases & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase,aws" />
+</p>
+
+### DevOps & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode" />
+</p>
+
+### AI / ML
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p>
+LLMs • RAG • NLP • Vector Search • AI Moderation Systems
 </p>
 
 ---
 
-<h3 align="left">Passionate Developer | Full-Stack Enthusiast | Problem Solver</h3>
+## Featured Work
 
-<a target="_blank" align="center">
-  <img align="right" height="280" width="380" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+### AI Profanity Filter SaaS
+Production-ready multilingual moderation system with:
+- async processing
+- ML-based abuse detection
+- Redis pipelines
+- scalable backend architecture
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=KushagraSharma924&show_icons=true&theme=github_dark&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=KushagraSharma924&theme=github-dark-blue&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KushagraSharma924&layout=compact&theme=github_dark&hide_border=true)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KushagraSharma924&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+## Connect
+
+<p>
+<a href="https://github.com/KushagraSharma924">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-### 🚀 About Me:
-- 🔬 Currently working on <a href="https://github.com/KushagraSharma924/devsketch" target="_blank">DevSketch</a>.
-- 🤝 Available for freelancing opportunities.
-- 🌟 Focused on **Data Structures & Algorithms with Java**.
-- 💼 Sharing knowledge on [Medium](https://medium.com/).
-- 💭 Ask me about **React.js, Node.js, Django, Flask, and Full-Stack Development**.
-- 📧 Reach me at: **kush090605@gmail.com**.
-- 📝 Check my <a href="https://drive.google.com/file/d/1gDvyVz-qy8hmLegadGKePenxsWspZhAL/view?usp=sharing" target="_blank">Resume</a>.
-
----
-
-## 🛠️ Tech Stack & Tools:
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="TensorFlow" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="TailwindCSS" width="50" height="50"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" alt="Express.js" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg" alt="Postman" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Twilio_logo.png" alt="Twilio" width="50" height="50"/>
-  <img src="https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000" alt="Django" width="50" height="50"/>
-  <img src="https://img.icons8.com/?size=100&id=ewGOClUtmFX4&format=png&color=000000" alt="Flask" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
-  <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="AWS" width="50" height="50"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0_yhGEmhIF8QjL7poBJqowjSlIw0kKKOJA&s" alt="Next.js" width="50" height="50"/>
-  <img src="https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000" alt="Google Cloud LLM" width="50" height="50"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
-
----
-
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KushagraSharma924&show_icons=true&theme=radical" alt="GitHub Stats" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KushagraSharma924&theme=radical" alt="GitHub Streak" width="49%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushagraSharma924&layout=compact&theme=radical" alt="Top Languages" width="49%">
-</p>
-
----
-
-## 🔥 Contribution Graph:
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KushagraSharma924&theme=dracula&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-## 🎯 Latest Projects:
-
-- 💊 [MediHUT](https://github.com/KushagraSharma924/medihut-web)
-- 🚀 [Twin-bot](https://github.com/KushagraSharma924/twin-bot)
-- 🛠️ [Voice-Enabled Map Application](https://github.com/KushagraSharma924/voice-map)
-
----
-
-🌟 *Inspired by amazing developers. Let's connect and build something great together!*
